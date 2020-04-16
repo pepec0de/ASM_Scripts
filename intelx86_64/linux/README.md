@@ -1,4 +1,4 @@
-# Intel x86_64 Assembly scripts!
+# Linux - Intel x86_64 Assembly scripts!
 
 Syscall list:
 <table border="">
